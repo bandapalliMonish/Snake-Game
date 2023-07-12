@@ -1,2 +1,4 @@
 # Snake-Game
-A snake game GUI developed using the python programming
+Created a captivating snake game using the turtle model in Python, where the player navigates the 
+snake to consume food for growth and survival.
+
